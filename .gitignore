@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment secrets (example files stay tracked)
+.env
+src/.env
+
+# Logs & OS files
+*.log
+.DS_Store
+
+# Build artifacts
+dist/
+build/
